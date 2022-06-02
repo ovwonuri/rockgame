@@ -10,3 +10,5 @@ rock, a piece of paper, or a pair of scissors. The winner is determined accordin
 "S" for "scissors"
 
 Note that: Rock beats Scissors, Scissors beats Paper, Paper beats Rock
+find out how to play the game here - https://www.youtube.com/watch?v=ND4fd6yScBM
+learn more about the game here - https://en.wikipedia.org/wiki/Rock_paper_scissors
